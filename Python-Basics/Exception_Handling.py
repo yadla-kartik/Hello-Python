@@ -13,3 +13,9 @@ try:
 
 except Exception as e:
     print(f"An error occurred: {e}")
+
+else:
+    print("This block will execute only if there is no error in the try block.")
+
+finally:
+    print("This block will always execute whether an error occurs or not.")
