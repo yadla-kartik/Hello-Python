@@ -1,0 +1,4 @@
+Hello, this is a file handling example in Python.
+We can write multiple lines to the file.
+This is the third line.
+This line is appended to the file.
