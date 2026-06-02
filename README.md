@@ -36,7 +36,8 @@ Whether you're a fellow learner or just exploring, you'll find well-organized Py
 - [x] Lists, Dicts, Sets, Tuples
 - [x] File Handling
 - [x] Exception Handling
-- [ ] OOPS 
+- [X] OOPS
+- [X] Advance Python
 
 ---
 
