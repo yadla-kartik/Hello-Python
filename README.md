@@ -38,6 +38,8 @@ Whether you're a fellow learner or just exploring, you'll find well-organized Py
 - [x] Exception Handling
 - [X] OOPS
 - [X] Advance Python
+- [X] Numpy
+- [ ] Pandas
 
 ---
 
