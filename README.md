@@ -39,7 +39,7 @@ Whether you're a fellow learner or just exploring, you'll find well-organized Py
 - [X] OOPS
 - [X] Advance Python
 - [X] Numpy
-- [ ] Pandas
+- [X] Pandas
 
 ---
 
@@ -93,8 +93,6 @@ jupyter
 <div align="center">
 
 ### ⭐ If you find this helpful, drop a star! ⭐
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yadla-kartik&color=00d4ff&style=for-the-badge&label=REPO+VISITORS)
 
 *A focused learner building real skills in Python & AI/ML* 🎯
 
