@@ -14,6 +14,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 </div>
 
 ---
@@ -40,6 +41,9 @@ Whether you're a fellow learner or just exploring, you'll find well-organized Py
 - [X] Advance Python
 - [X] Numpy
 - [X] Pandas
+- [X] Matplotlib
+- [X] Seaborn
+- [X] Plotly
 
 ---
 
