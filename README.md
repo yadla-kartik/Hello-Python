@@ -84,20 +84,3 @@ jupyter
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yadla-kartik&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you find this helpful, drop a star! ⭐
-
-*A focused learner building real skills in Python & AI/ML* 🎯
-
-</div>
