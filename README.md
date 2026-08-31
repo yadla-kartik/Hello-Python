@@ -44,6 +44,7 @@ Whether you're a fellow learner or just exploring, you'll find well-organized Py
 - [X] Matplotlib
 - [X] Seaborn
 - [X] Plotly
+- [X] Machine Learning
 
 ---
 
